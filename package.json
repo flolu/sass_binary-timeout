@@ -3,7 +3,7 @@
   "private": true,
   "scripts": {
     "bazel": "bazelisk",
-    "build:dev": "bazel build //..."
+    "build": "bazel build //..."
   },
   "dependencies": {
     "faker": "^5.1.0"
